@@ -6,4 +6,7 @@
 
 ## Code
 
+#### [Chapter 1,2 (skip)]()<br>
+Simple environment setup and the concept of R 
 
+#### [Chapter 3 code](https://github.com/Jin-Baek/R_basic/blob/main/Chap3.R)
