@@ -11,3 +11,11 @@
 Simple environment setup and the concept of R 
 
 #### [Chapter 3 code](https://github.com/Jin-Baek/R_basic/blob/main/Chap3.R)
+
+#### [Chapter 4 code](https://github.com/Jin-Baek/R_basic/blob/main/Chap4.R)
+
+#### [Chapter 5 code](https://github.com/Jin-Baek/R_basic/blob/main/Chap5.R)
+
+#### [Chapter 6 code](https://github.com/Jin-Baek/R_basic/blob/main/Chap6.R)
+
+#### [Chapter 7 code](https://github.com/Jin-Baek/R_basic/blob/main/Chap7.R)
